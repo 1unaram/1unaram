@@ -4,5 +4,6 @@
 - 🌱 I’m currently learning **Computer Secutiry, React.js**
 - ⚡ Fun fact: My Dog's name is **Dal Bong Yee**
 
+<br />
 
-<h2 align="center">Thank you for visiting🙇‍♂️</h2>
+<p align="center"><strong>Thank you for visiting🙇‍♂️</strong></p>
