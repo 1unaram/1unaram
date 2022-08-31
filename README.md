@@ -4,7 +4,6 @@
 
 - 📖 I'm currently majoring in **Computer Science & Engineering**
 - 🌱 I’m currently Studying **Computer Secutiry, React.js**
-- ⚡ Fun fact: My Dog's name is **Dal Bong Yee**
 
 <br />
 
