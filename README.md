@@ -31,10 +31,6 @@
 
 <br />
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=1unaram&amp;show_icons=true" alt="GitHub Stats" ></p>
-
-
-<br />
 
 <p align="center"><strong>⭐Come to My <a href="https://velog.io/@1unaram">BLOG</a>⭐</strong></p>
 
