@@ -24,15 +24,25 @@
 
 <br />
 
-## 📃 Career
+## 🏃‍♂️ Experience 🏃‍♂️
 
-- **[2021.05 ~ Now]** - 'CAUtion' 동아리 회장
-- **[2022.08 ~ 2022.11]** - INCOGNITO 운영 위원
+- [2022.08.01 ~ 2022.12.11] 2022년 대학생 보안 컨퍼런스 INCOGNITO 운영진
+ 
+- [2021.10.28 ~ 2023.02.28] 중앙대학교 소프트웨어학부 학과 동아리 CAUtion 회장
+
+- [2022.03.02 ~ 2023.02.28] 중앙대학교 웹/앱 개발 중앙동아리 COMP 부회장
+
+- [2022.12.30 ~ 2023.03.26] 2022년 대학생 보안 컨퍼런스 INCOGNITO 운영진
 
 <br />
 
+## 🏆 Awards 🏆
 
-<p align="center"><strong>⭐Come to My <a href="https://velog.io/@1unaram">BLOG</a>⭐</strong></p>
+- [2022.11.27] 제 4회 TS보안 허점을 찾아라 공모전 장려상
+
+<br />
+
+<p align="center"><strong>⭐Come to My <a href="https://1unaram.github.io/">BLOG</a>⭐</strong></p>
 
 <br />
 
