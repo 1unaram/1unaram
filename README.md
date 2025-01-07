@@ -46,4 +46,13 @@
 
 <br />
 
+## 📑 Certificate 📑
+
+- [2024.06.04] 인터넷보안전문가 2급 - 한국정보통신자격협회
+- [2024.12.24] 정보보안산업기사 - 한국방송통신전파진흥원
+
+<br />
+<br />
+<br />
+
 <p align="center"><strong>Thank you for visiting🙇‍♂️</strong></p>
