@@ -42,10 +42,6 @@
 
 <br />
 
-<p align="center"><strong>⭐Come to My <a href="https://1unaram.github.io/">BLOG</a>⭐</strong></p>
-
-<br />
-
 ## 📑 Certificate 📑
 
 - [2024.06.04] 인터넷보안전문가 2급 - 한국정보통신자격협회
@@ -53,6 +49,10 @@
 
 <br />
 <br />
+<br />
+
+<p align="center"><strong>⭐Come to My <a href="https://1unaram.github.io/">BLOG</a>⭐</strong></p>
+
 <br />
 
 <p align="center"><strong>Thank you for visiting🙇‍♂️</strong></p>
