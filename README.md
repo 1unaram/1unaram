@@ -40,6 +40,8 @@
 
 - [2022.11.27] 제 4회 TS보안 허점을 찾아라 공모전 장려상
 
+- [2024.01.29 ~ 2024.01.30] 2024 CAUtion X ISANG Uniton CTF 4위
+
 <br />
 
 ## 📑 Certificate 📑
