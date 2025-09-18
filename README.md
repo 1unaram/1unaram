@@ -34,6 +34,8 @@
 
 - [2025.02.26 ~ NOW] 중앙대학교 소프트웨어학부 보안 동아리 CAUtion 부회장
 
+- [2025.07.10 ~ 07.16] [(Skills2Work X The Asia Foundation) Skillts2Work-Seoul 보조 강사](https://livecauac-my.sharepoint.com/:b:/g/personal/lunaram620_cau_ac_kr/EZuFkwWlrXtAkMrsvsE8zpkB-1Flgl5w9xnFbNoaWJy8vQ?e=TdpuW1)
+
 <br />
 
 ## 🏆 Awards 🏆
