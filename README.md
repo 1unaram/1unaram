@@ -1,9 +1,9 @@
-<h1 align="center">Hi there 👋 I'm lunaram</h1>
+<h1 align="center">Hi there 👋 I'm 1unaram</h1>
 
 ## 🙇‍ Introduction
 
 - 📖 I'm currently majoring in **Computer Science & Engineering**
-- 🌱 I’m currently Studying **Computer Secutiry** and ...
+- 🌱 I’m currently Studying **Computer Secutiry / Cyber Security** and ...
 
 <p align="center">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
