@@ -34,8 +34,6 @@
 
 - [2025.02.26 ~ NOW] 중앙대학교 소프트웨어학부 보안 동아리 CAUtion 부회장
 
-- [2025.07.10 ~ 07.16] (Skills2Work X The Asia Foundation) Skills2Work-Seoul 보조 강사
-
 <br />
 
 ## 🏆 Awards 🏆
