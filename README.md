@@ -1,5 +1,3 @@
-<h1 align="center">Hi there 👋 I'm 1unaram</h1>
-
 ## 🙇‍ Introduction
 
 - 📖 I'm currently majoring in **Computer Science & Engineering**
