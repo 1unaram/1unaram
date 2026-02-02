@@ -15,7 +15,7 @@
 
 - [2025.02.26. ~ NOW] 중앙대학교 소프트웨어학부 보안 동아리 CAUtion 부회장
 
-- [2025.10.27. ~ NOW] Stealien Security Leader 6기
+- [2025.10.24. ~ 2026.01.29.] Stealien Security Leader 6기
 
 <br />
 
