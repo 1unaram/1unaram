@@ -33,6 +33,19 @@
 - [2024.12.24.] 정보보안산업기사 - 한국방송통신전파진흥원
 - [2025.11.01.] TOPCIT Level 4
 - [2025.12.24.] 정보처리산업기사 - 한국산업인력공단
+<!--
+
+<br />
+
+## 🔐 CVE / Vulnerability Research
+
+- **CVE-2026-24937**
+  - Product: WordPress Plugin `example-plugin`  
+  - Vulnerability: Stored Cross-Site Scripting (XSS)  
+  - Severity: Medium (CVSS 6.1)  
+  - Description: Improper sanitization of user-supplied input in the admin panel  
+  - Reference: https://nvd.nist.gov/vuln/detail/CVE-2024-XXXXX
+-->
 
 <br />
 <br />
