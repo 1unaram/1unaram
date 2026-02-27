@@ -1,7 +1,7 @@
 ## 🙇‍ Introduction
 
 - 📖 I'm currently majoring in **Computer Science & Engineering**
-- 🌱 I’m currently studying **Computer Secutiry / Cyber Security**
+- 🌱 I’m currently studying **Computer Security / Cyber Security**
 
 <br />
 
