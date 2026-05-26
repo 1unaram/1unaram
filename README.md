@@ -44,6 +44,7 @@
 ## 🔐 Issued CVE
 
 - **CVE-2026-24937**
+  - [cve.org](https://www.cve.org/CVERecord?id=CVE-2026-24937) | [patchstack](https://patchstack.com/database/wordpress/plugin/videowhisper-live-streaming-integration/vulnerability/wordpress-broadcast-live-video-plugin-7-1-3-remote-code-execution-rce-vulnerability?_s_id=cve)
 
 <!--
   - Product: WordPress Plugin `example-plugin`  
